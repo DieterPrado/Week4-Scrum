@@ -11,6 +11,7 @@
 ### General info
 
 What I learned in the course was what scrum is, and the components and features of this agile framework. I learned about the members of a scrum team and their different responsibilities, as well as the events that occur within this framework and who participates in these events. No code was made in this course so only the concepts learned in the course are found.
+
 ------------
 
 ### Technologies
