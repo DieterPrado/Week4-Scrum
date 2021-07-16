@@ -34,7 +34,7 @@ What I learned in the course was what scrum is, and the components and features 
 - What epics and backlogs are.
 - User histories and its components (title, description, points, acceptance criteria).
 - To estimate user's histories.
-- Priorities definition.
+- To define priorities.
 - Measurement of project progress.
 - What daily stand up is and how it's performed.
 - Daily stand up three questions (what did I do yesterday?, what am I going to do today?, Do I have any blockers?).
